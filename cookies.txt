@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.hcltss-lms.com	TRUE	/	FALSE	1999999999	MoodleSession	jdede3r01g2h825qftnha0bpu6
+www.hcltss-lms.com	TRUE	/	FALSE	1999999999	ApplicationGatewayAffinity	14eb52de449adfedd8f630036e750fc6c71d23542303af8db2e7ae6662f9da04
+www.hcltss-lms.com	TRUE	/	FALSE	1999999999	ApplicationGatewayAffinityCORS	14eb52de449adfedd8f630036e750fc6c71d23542303af8db2e7ae6662f9da04
+www.hcltss-lms.com	TRUE	/	FALSE	1999999999	SameSite	None
+
